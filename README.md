@@ -15,7 +15,7 @@
 
 <img align="right" height="280" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
-### Talking about Personal Stuffs :woman:
+### Talking about Personal Stuffs :man:
 
 - 🛠 I’m currently working with Laravel, CodeIgniter, Flutter <br /> React Native, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
