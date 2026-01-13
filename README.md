@@ -19,7 +19,7 @@
 
 - 🛠 I’m currently working with Laravel, CodeIgniter, Flutter <br /> React Native, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
-- 💬 Ask me about anything [here](https://github.com/t-faces/tfaces/issues/)! I am happy to help.
+- 💬 Ask me about anything [here](https://github.com/t-faces/t-faces/issues/)! I am happy to help.
 - ⚡ Fun fact: The first virus was created in 2019
 - 📫 How to reach me: tfaces1998@gmail.com
 - 📝 [Resume](https://linkedin.com/in/rayhanyulanda)
