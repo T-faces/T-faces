@@ -11,7 +11,7 @@
 - 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains.
 - ✨ I love to explore new technologies and leverage them to solve real-life problems.
 
-[![Website Badge](https://img.shields.io/badge/-rayhanyulanda.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://t-faces.github.io)](https://t-faces.github.io) [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/kray1998)](https://www.paypal.me/kray1998)
+[![Website Badge](https://img.shields.io/badge/-t-faces.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://t-faces.github.io)](https://t-faces.github.io) [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/kray1998)](https://www.paypal.me/kray1998)
 
 <img align="right" height="280" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
