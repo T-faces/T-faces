@@ -22,7 +22,7 @@
 - 💬 Ask me about anything [here](https://github.com/t-faces/t-faces/issues/)! I am happy to help.
 - ⚡ Fun fact: The first virus was created in 2019
 - 📫 How to reach me: tfaces1998@gmail.com
-- 📝 [Resume](https://linkedin.com/in/rayhanyulanda)
+- 📝 [Resume](https://t-faces.github.io)
 
 ### Languages and Tools 🛠️
 
