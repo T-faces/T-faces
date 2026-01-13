@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm T-Faces
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 <a href="https://github.com/t-faces">
   <img align="left" alt="t-faces's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
 </a>
